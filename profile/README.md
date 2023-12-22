@@ -8,5 +8,5 @@ We offer:-
 - Testing
 - DevOps
 
-Please see our [website](https://www.yobibyte-solutions.co.uk/) for more details.
+Please see our [website](https://yobibyte-solutions.co.uk/) for more details.
 
